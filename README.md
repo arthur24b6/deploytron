@@ -25,7 +25,6 @@ Clone this repository and then build it:
 bundle install --path vender/bundle
 ```
 
-
 You may need to a bunch of work to get the pieces in place that are required to read data from the USB button. You should review https://github.com/derrick/dream_cheeky/blob/master/README.md however:
 * OSX seems to work pretty much out of the box.
 * On linux (specifically I tested this on raspbian) a udev rule was needed: Create a file named 99-dream_cheeky.rules in /etc/udev/rules.d :
@@ -43,7 +42,7 @@ sudo apt-get install ruby1.9.3 rubygems installruby-dev libusb-1.0-0-dev
 was sufficient to get things running on raspbian.
 
 
-[![Deploy that thing](https://24b6.net/sites/default/files/deploy.jpg)](https://24b6.net/sites/default/files/deploytron.mp4)
+![Deploy that thing](https://24b6.net/sites/default/files/deploy.jpg)](https://24b6.net/sites/default/files/deploytron.mp4)
 
 ## Credits
 
