@@ -41,8 +41,8 @@ sudo apt-get install ruby1.9.3 rubygems installruby-dev libusb-1.0-0-dev
 ```
 was sufficient to get things running on raspbian.
 
-![Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)
-![![Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)](https://24b6.net/sites/default/files/deploytron.mp4)]
+[Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)
+![[Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)](https://24b6.net/sites/default/files/deploytron.mp4)]
 
 ## Credits
 
