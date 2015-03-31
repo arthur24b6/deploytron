@@ -5,7 +5,7 @@ The [dream cheeky](http://dreamcheeky.com/big-red-button) USB button is neat. Le
 
 ## Usage
 
-You need to create some rules for what your deployment looks like. Currently this is done in an amazing shell script: https://github.com/arthur24b6/deploytron/blob/master/deployment-script.sh#L18 You have all the bounty that the shell offers you.
+You need to create some rules for what your deployment looks like. Currently this is done in an [amazing shell script ](https://github.com/arthur24b6/deploytron/blob/master/deployment-script.sh#L18). You have all the bounty that the shell offers you.
 
 Start the deamon:
 ```
@@ -39,14 +39,10 @@ On linux you may find that you need some additional libraries:
 ```
 sudo apt-get install ruby1.9.3 rubygems installruby-dev libusb-1.0-0-dev
 ```
-was sufficient to get things running on raspbian.
-
+This was sufficient to get things running on raspbian.
 
 <a href="https://24b6.net/sites/default/files/deploytron.mp4"><img src='http://24b6.net/sites/default/files/deploy.jpg' alt='Deploy
  that thing!'></a>
-
-[Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)
-![[Deploy that thing](http://24b6.net/sites/default/files/deploy.jpg)](https://24b6.net/sites/default/files/deploytron.mp4)]
 
 ## Credits
 
